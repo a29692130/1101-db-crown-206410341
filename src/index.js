@@ -2,11 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App_41 from './App_41';
+import ShopOverviewPage_41 from './pages/ShopOverviewPage_41';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App_41 />
+    <ShopOverviewPage_41 />
   </React.StrictMode>,
   document.getElementById('root')
 );
