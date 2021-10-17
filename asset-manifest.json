@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/1101-db-crown-206410341/static/css/main.5dce2c18.chunk.css",
+    "main.js": "/1101-db-crown-206410341/static/js/main.bdfeae9c.chunk.js",
+    "main.js.map": "/1101-db-crown-206410341/static/js/main.bdfeae9c.chunk.js.map",
+    "runtime-main.js": "/1101-db-crown-206410341/static/js/runtime-main.eaad8d79.js",
+    "runtime-main.js.map": "/1101-db-crown-206410341/static/js/runtime-main.eaad8d79.js.map",
+    "static/js/2.9b52f861.chunk.js": "/1101-db-crown-206410341/static/js/2.9b52f861.chunk.js",
+    "static/js/2.9b52f861.chunk.js.map": "/1101-db-crown-206410341/static/js/2.9b52f861.chunk.js.map",
+    "static/js/3.9b36b252.chunk.js": "/1101-db-crown-206410341/static/js/3.9b36b252.chunk.js",
+    "static/js/3.9b36b252.chunk.js.map": "/1101-db-crown-206410341/static/js/3.9b36b252.chunk.js.map",
+    "index.html": "/1101-db-crown-206410341/index.html",
+    "static/css/main.5dce2c18.chunk.css.map": "/1101-db-crown-206410341/static/css/main.5dce2c18.chunk.css.map",
+    "static/js/2.9b52f861.chunk.js.LICENSE.txt": "/1101-db-crown-206410341/static/js/2.9b52f861.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaad8d79.js",
+    "static/js/2.9b52f861.chunk.js",
+    "static/css/main.5dce2c18.chunk.css",
+    "static/js/main.bdfeae9c.chunk.js"
+  ]
+}
