@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <ShopOverviewPage_41 />
+    <App_41 />
   </React.StrictMode>,
   document.getElementById('root')
 );
