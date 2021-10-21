@@ -9,15 +9,15 @@ import './App_41.scss';
 const App_41 = () => {
   return (
     <div>
-      <Header_41/>
+      <Header_41 />
       <Switch>
-        <Route exact path='/' component={Homepage_41}/>
-        <Route exact path='/shop_41' component={ShopTwo_41}/>
-        <Route exact path='/contact_41' component={ContactPage_41}/>
-        <Route exact path='/signin_41' component={SigninPage_41}/>
+        <Route exact path='/' component={Homepage_41} />
+        <Route exact path='/shop_41' component={ShopTwo_41} />
+        <Route exact path='/contact_41' component={ContactPage_41} />
+        <Route exact path='/signin_41' component={SigninPage_41} />
       </Switch>
     </div>
   );
-}
+};
 
 export default App_41;
