@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/1101-db-crown-206410341/static/css/main.daf4b4e5.chunk.css",
-    "main.js": "/1101-db-crown-206410341/static/js/main.405efd26.chunk.js",
-    "main.js.map": "/1101-db-crown-206410341/static/js/main.405efd26.chunk.js.map",
-    "runtime-main.js": "/1101-db-crown-206410341/static/js/runtime-main.025663c3.js",
-    "runtime-main.js.map": "/1101-db-crown-206410341/static/js/runtime-main.025663c3.js.map",
-    "static/js/2.83c717be.chunk.js": "/1101-db-crown-206410341/static/js/2.83c717be.chunk.js",
-    "static/js/2.83c717be.chunk.js.map": "/1101-db-crown-206410341/static/js/2.83c717be.chunk.js.map",
-    "static/js/3.a7700ab4.chunk.js": "/1101-db-crown-206410341/static/js/3.a7700ab4.chunk.js",
-    "static/js/3.a7700ab4.chunk.js.map": "/1101-db-crown-206410341/static/js/3.a7700ab4.chunk.js.map",
-    "index.html": "/1101-db-crown-206410341/index.html",
-    "static/css/main.daf4b4e5.chunk.css.map": "/1101-db-crown-206410341/static/css/main.daf4b4e5.chunk.css.map",
-    "static/js/2.83c717be.chunk.js.LICENSE.txt": "/1101-db-crown-206410341/static/js/2.83c717be.chunk.js.LICENSE.txt",
-    "static/media/crown.207ae289.svg": "/1101-db-crown-206410341/static/media/crown.207ae289.svg"
+    "main.css": "/1101-db-crown-206410341/shop_41/static/css/main.daf4b4e5.chunk.css",
+    "main.js": "/1101-db-crown-206410341/shop_41/static/js/main.405efd26.chunk.js",
+    "main.js.map": "/1101-db-crown-206410341/shop_41/static/js/main.405efd26.chunk.js.map",
+    "runtime-main.js": "/1101-db-crown-206410341/shop_41/static/js/runtime-main.50dc30e8.js",
+    "runtime-main.js.map": "/1101-db-crown-206410341/shop_41/static/js/runtime-main.50dc30e8.js.map",
+    "static/js/2.83c717be.chunk.js": "/1101-db-crown-206410341/shop_41/static/js/2.83c717be.chunk.js",
+    "static/js/2.83c717be.chunk.js.map": "/1101-db-crown-206410341/shop_41/static/js/2.83c717be.chunk.js.map",
+    "static/js/3.a7700ab4.chunk.js": "/1101-db-crown-206410341/shop_41/static/js/3.a7700ab4.chunk.js",
+    "static/js/3.a7700ab4.chunk.js.map": "/1101-db-crown-206410341/shop_41/static/js/3.a7700ab4.chunk.js.map",
+    "index.html": "/1101-db-crown-206410341/shop_41/index.html",
+    "static/css/main.daf4b4e5.chunk.css.map": "/1101-db-crown-206410341/shop_41/static/css/main.daf4b4e5.chunk.css.map",
+    "static/js/2.83c717be.chunk.js.LICENSE.txt": "/1101-db-crown-206410341/shop_41/static/js/2.83c717be.chunk.js.LICENSE.txt",
+    "static/media/crown.207ae289.svg": "/1101-db-crown-206410341/shop_41/static/media/crown.207ae289.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.025663c3.js",
+    "static/js/runtime-main.50dc30e8.js",
     "static/js/2.83c717be.chunk.js",
     "static/css/main.daf4b4e5.chunk.css",
     "static/js/main.405efd26.chunk.js"
