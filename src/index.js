@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
 import './index.css';
 import App_41 from './App_41';
-import ShopOverviewPage_41 from './pages/ShopOverviewPage_41';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <ShopOverviewPage_41 />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <App_41 />
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
