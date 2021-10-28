@@ -1,10 +1,10 @@
 import React from 'react';
-import CollectionPreview_41 from '../components/CollectionPreview_41';
+import CollectionOverview_41 from '../components/CollectionOverview_41';
 
 const ShopTwo_41 = () => {
   return (
     <div className='shop-page'>
-      <CollectionPreview_41 />
+      <CollectionOverview_41 />
     </div>
   );
 };

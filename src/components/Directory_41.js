@@ -24,4 +24,5 @@ const Directory_41 = () => {
     </div>
   );
 };
+
 export default Directory_41;
